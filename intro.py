@@ -14,3 +14,8 @@ print("hello" + "john titor 42")
 
 print("a"+"b)
 # "ab"
+
+# Error 1 : EOL => SyntaxError (missing one quote)
+print("abvdbcbc)
+# Error 2: NameError => missing quotes
+print(github)
