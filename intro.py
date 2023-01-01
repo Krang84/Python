@@ -17,5 +17,7 @@ print("a"+"b)
 
 # Error 1 : EOL => SyntaxError (missing one quote)
 print("abvdbcbc)
+# EOL : Quotes dont match
+print("a')
 # Error 2: NameError => missing quotes
 print(github)
