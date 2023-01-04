@@ -30,3 +30,15 @@ print("a')
       
 # Error 2: NameError => missing quotes
 print(github)
+      
+# 3.Variables and operators
+      
+# variable_name =  expression
+      
+year = 2023
+      
+# operators : + * - % 
+      
+remainder = 1328 % 11
+      
+# 1328 = 120*11 + 8
