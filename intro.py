@@ -42,3 +42,8 @@ year = 2023
 remainder = 1328 % 11
       
 # 1328 = 120*11 + 8
+
+print(100/6)
+# output 16.6666666
+print(100//6)
+#output 16
